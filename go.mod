@@ -1,4 +1,4 @@
-module github.com/wI2L/jsondiff
+module github.com/oscatel/jsondiff
 
 go 1.21
 
